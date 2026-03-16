@@ -24,10 +24,5 @@ Data Minimization: The platform only stores the essential character traits and c
 ## Local Development
 To set up the development environment locally:
 
-1. Clone the repository.
-2. Install dependencies using npm install.
-3. Configure environment variables in a .env.local file including NEXT_PUBLIC_SUPABASE_URL and NEXT_PUBLIC_SUPABASE_ANON_KEY.
-4. Execute npm run dev to start the local development server.
-
 ## Licensing and Rights
 All rights reserved by Thomas Haiden. 2026.
